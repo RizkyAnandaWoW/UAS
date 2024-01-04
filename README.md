@@ -24,16 +24,14 @@ Password:iki
 
 Dengan ketentuan Tugas: <br><br>
 ![WhatsApp Image 2023-12-04 at 08 58 47_333402f7](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/05e7657f-528d-4a91-b0d4-f1cdbd6fb192)<br><br>
+
 - Terdapat 9 kolom input data dimana salah satu kolomnya harus ada input gambar
 <br><br>
-![Screenshot (313)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/241219d3-2cd5-4b8a-a38b-dad06ebc856d)
-<br>
-<br>
-<br>
-kolomnya harus ada input gambar
-<br><br>
-![Screenshot (314)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/d7f3685c-671a-4f1e-84a8-6aa0b7e195b7)
+![Screenshot (314)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/37c49d88-d677-43ee-9f23-f9d9aa6a21d8)
 
+<br><br>
+<br>
+<br>
 <br><br>
 <br>
 dan memuat minimal 3 tabel database. <br><br><br>
@@ -45,13 +43,14 @@ dan memuat minimal 3 tabel database. <br><br><br>
 <br>
 <br>
 <br>
+<br><br><br><br>
 
 - Terdapat fungsi CRUD.<br>
-<br>
+<br><br><br><br><br><br><br>
 ![Screenshot (316)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/37dd503f-1c22-4bd0-a2b1-148a078ac56c)
 <br>
 <br>
-
+<br><br><br><br><br><br>
 
 - Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br>
 
@@ -81,10 +80,11 @@ Disini saya ada 3 multi user yang berupa
 3.Owner
 <br>Username:iki@gmail.com
 <br>Password:iki
-<br>
+<br><br><br>
 dan bisa ditambah lagi sesuai yang diinginkan dan juga terdapat fitur cetak laporan pada halaman ceckout kasir<br><br>
-![Screenshot (319)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/f4dacfda-b4d3-44ac-952f-80e0ae473037)
+
 <br><br>
+![Screenshot (319)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/b3e47840-12fe-4412-afcf-bd7c65e4651a)
 
 <p>Mungkin Hanya itu saja laporan saya Maaf apabila banyak kekurangan saya juga mengucapkan terima kasih  </p>
 
