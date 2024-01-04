@@ -30,6 +30,8 @@ Dengan ketentuan Tugas: <br><br>
 <br>
 <br>
 <br>
+kolomnya harus ada input gambar
+<br><br>
 ![Screenshot (314)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/0660d8d8-bb7a-43d8-b86a-1574327e00ce)
 <br><br>
 <br>
