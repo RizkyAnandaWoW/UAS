@@ -48,12 +48,10 @@ dan memuat minimal 3 tabel database. <br><br><br>
 
 - Terdapat fungsi CRUD.<br>
 <br>
-![Screenshot (316)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/c57aa786-183b-4073-a29b-263b0fe92f5a)
+![Screenshot (316)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/37dd503f-1c22-4bd0-a2b1-148a078ac56c)
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
 
 - Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br>
 
@@ -85,7 +83,7 @@ Disini saya ada 3 multi user yang berupa
 <br>Password:iki
 <br>
 dan bisa ditambah lagi sesuai yang diinginkan dan juga terdapat fitur cetak laporan pada halaman ceckout kasir<br><br>
-![Screenshot (319)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/40259594-49ec-4cbd-80b5-1e582801f674)
+![Screenshot (319)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/f4dacfda-b4d3-44ac-952f-80e0ae473037)
 <br><br>
 
 <p>Mungkin Hanya itu saja laporan saya Maaf apabila banyak kekurangan saya juga mengucapkan terima kasih  </p>
