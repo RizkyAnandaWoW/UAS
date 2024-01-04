@@ -60,22 +60,23 @@ ini adalah link youtube referensi saya: https://youtube.com/playlist?list=PLoYZC
 <br>
 <br>
 
-- Login Multi User dengan akses cetak laporan p<br><br>
+- Login Multi User dengan akses cetak laporan <br><br>
 ![Screenshot (318)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/add919c1-8887-4d7e-ba11-d0606162590a)
 <br>
-Disini saya ada 3 multi user yang berupa<br>
+Disini saya ada 3 multi user yang berupa
+<br>
 1.kasir
-Username:rizky@gmail.com
-Password:rizky
-
+<br>Username:rizky@gmail.com
+<br>Password:rizky
+<br>
 2.Gudang
-Username:ananda@gmail.com
-Password:ananda
-
+<br>Username:ananda@gmail.com
+<br>Password:ananda
+<br>
 3.Owner
-Username:iki@gmail.com
-Password:iki
-
+<br>Username:iki@gmail.com
+<br>Password:iki
+<br>
 dan bisa ditambah lagi sesuai yang diinginkan dan juga terdapat fitur cetak laporan pada halaman ceckout kasir<br><br>
 ![Screenshot (319)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/40259594-49ec-4cbd-80b5-1e582801f674)
 <br><br>
