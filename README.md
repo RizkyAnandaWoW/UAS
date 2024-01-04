@@ -32,7 +32,7 @@ Dengan ketentuan Tugas: <br><br>
 <br>
 kolomnya harus ada input gambar
 <br><br>
-![Screenshot (314)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/0660d8d8-bb7a-43d8-b86a-1574327e00ce)
+![Screenshot (314)]([https://github.com/RizkyAnandaWoW/UAS/assets/148051826/0660d8d8-bb7a-43d8-b86a-1574327e00ce](https://github-production-user-asset-6210df.s3.amazonaws.com/148051826/294095786-0660d8d8-bb7a-43d8-b86a-1574327e00ce.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240104T061425Z&X-Amz-Expires=300&X-Amz-Signature=567476f500b8cd4127b20b79ecf43eba0b616d514d6f26b25f68ac75be33f2ee&X-Amz-SignedHeaders=host&actor_id=148051826&key_id=0&repo_id=738813453)?raw=true)
 <br><br>
 <br>
 dan memuat minimal 3 tabel database. <br><br><br>
