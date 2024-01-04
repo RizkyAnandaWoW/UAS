@@ -28,11 +28,11 @@ Dengan ketentuan Tugas: <br><br>
 ![Screenshot (313)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/241219d3-2cd5-4b8a-a38b-dad06ebc856d)
 <br>
 ![Screenshot (314)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/0660d8d8-bb7a-43d8-b86a-1574327e00ce)
-
+<br><br>
 <br>
-dan memuat minimal 3 tabel database. <br>
+dan memuat minimal 3 tabel database. <br><br><br>
  ![Screenshot (315)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/3e38df51-e84e-43c0-b4c5-fa6be8e97ec5)
-
+<br><br>
 
 <br>
 <br>
