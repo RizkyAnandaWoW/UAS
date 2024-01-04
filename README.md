@@ -23,9 +23,12 @@ Password:iki
 </p>
 
 Dengan ketentuan Tugas: <br><br>
-![WhatsApp Image 2023-12-04 at 08 58 47_333402f7](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/05e7657f-528d-4a91-b0d4-f1cdbd6fb192)
-- Terdapat 9 kolom input data dimana salah satu kolomnya harus ada input gambar<br><br>
+![WhatsApp Image 2023-12-04 at 08 58 47_333402f7](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/05e7657f-528d-4a91-b0d4-f1cdbd6fb192)<br><br>
+- Terdapat 9 kolom input data dimana salah satu kolomnya harus ada input gambar
+<br><br>
 ![Screenshot (313)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/241219d3-2cd5-4b8a-a38b-dad06ebc856d)
+<br>
+<br>
 <br>
 ![Screenshot (314)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/0660d8d8-bb7a-43d8-b86a-1574327e00ce)
 <br><br>
