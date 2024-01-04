@@ -5,18 +5,18 @@
 
 <br>
 Untuk mengakses Halaman Login:
-
-1.kasir
-Username:rizky@gmail.com
-Password:rizky
-
-2.Gudang
-Username:ananda@gmail.com
-Password:ananda
-
-3.Owner
-Username:iki@gmail.com
-Password:iki
+<br><br>
+1.kasir<br>
+Username: rizky@gmail.com<br>
+Password: rizky<br>
+<br>
+2.Gudang<br>
+Username: ananda@gmail.com<br>
+Password: ananda<br>
+<br>
+3.Owner<br>
+Username: iki@gmail.com<br>
+Password: iki<br>
 <br>
 <br>
 <p>Website Kasir Sederhana ini di buat untuk menyelesaikan tugas dari Ibu Utami Mirzani Putri,M.Kom selaku Dosen Mata Kuliah Pemrograman WEB 2.
