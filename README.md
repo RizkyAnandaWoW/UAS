@@ -1,4 +1,4 @@
-![image](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/180480f3-6702-4c06-90ec-0c0a5eeeea73)# UAS 
+
 
 # UAS RIZKY ANANDA(701220002) <br>
 ## Sistem Kasir Sederhana 
@@ -50,10 +50,13 @@ dan memuat minimal 3 tabel database. <br><br><br>
 ![Screenshot (316)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/37dd503f-1c22-4bd0-a2b1-148a078ac56c)
 <br>
 <br>
-<br><br><br><br><br><br>
-![Screenshot (320)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/9095512a-7fb8-4693-aeba-45406778404f)
+<br><br><br><br>
+<br><br>
 
-<br><br><br><br><br><br>
+![Screenshot (320)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/42828c44-296c-4bd9-a51a-0bbe087f0859)
+
+<br><br><br><br>
+<br><br>
 
 - Sistem informasi yang dibuat menarik dan tidak sama dengan teman yang lain.<br><br>
 
@@ -84,7 +87,7 @@ Disini saya ada 3 multi user yang berupa dan bisa ditambah lagi sesuai yang diin
 <br>Username:iki@gmail.com
 <br>Password:iki
 <br><br><br>
-dan juga terdapat fitur cetak laporan pada halaman ceckout kasir<br><br>
+dan juga terdapat fitur cetak laporan pada halaman checkout kasir<br><br>
 
 <br><br>
 ![Screenshot (319)](https://github.com/RizkyAnandaWoW/UAS/assets/148051826/b3e47840-12fe-4412-afcf-bd7c65e4651a)
